@@ -1,7 +1,7 @@
 module Day1.Part2 where
 
 import System.Environment
-import Day1.Common
+import Common
 
 
 doMoves :: [Move] -> Position

@@ -1,4 +1,4 @@
-module Day1.Common where
+module Common where
 
 import Data.List.Split
 
